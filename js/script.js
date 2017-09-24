@@ -11,7 +11,7 @@ var iframe = document.getElementById("map");
 
 burger.addEventListener("click", burgerChange);
 map.addEventListener("click", checkMenu);
-header.addEventListener("click", countClick);
+
 erststimmen.addEventListener("click", changeToEs);
 zweitstimmen.addEventListener("click", changeToZs);
 deutschlandkarte.addEventListener("click", loadInteractive)
